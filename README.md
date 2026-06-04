@@ -9,7 +9,7 @@
 支持协议：Alist，SMB，Webdav，Emby（直连），plex,Local，jellyfin（直连），阿里网盘,115.<br>
 最低版本支持安卓8.<br>
 
-如果您注册后想要在Afusekt官方的账号系统中删除的您的账号清通过<a href="https://t.me/PayForAfusekt">tg群组</a>联系作者本人，提供账号及登录界面截图，并提供作者为您提供的邮箱验证码，则可以将您的账号彻底从系统中移除
+如果您注册后想要在Afusekt官方的账号系统中删除的您的账号清通过<a href="https://t.me/PayForAfusekt">tg群组</a>联系作者本人，提供账号及登录界面截图，并提供作者为您提供的邮箱验证码，则可以将您的账号彻底从系统中移除且不保留任何数据
 
 
 <a href="https://www.afusekt.cn/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
