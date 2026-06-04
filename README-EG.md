@@ -8,7 +8,7 @@ your android verison must be 9.<br>
 
 <a href="https://t.me/PayForAfusekt">Telegram group</a>
 
-If you wish to delete your account from the official Afusekt account system after registering, please contact the author directly via the <a href="https://t.me/PayForAfusekt">Telegram group</a>. By providing your account details, a screenshot of the login interface, and the email verification code sent to you by the author, you can have your account permanently removed from the system.
+If you wish to delete your account from the official Afusekt account system after registering, please contact the author directly via the <a href="https://t.me/PayForAfusekt">Telegram group</a>. By providing your account details, a screenshot of the login interface, and the email verification code sent to you by the author, you can have your account permanently removed from the system and No data is retained.
 
 If you wish to purchase a subscription, please visit the site. Please ensure you are connected to a network within the Chinese region and use Alipay or WeChat Pay to complete your payment; international payment methods are not currently supported.
 
