@@ -4,15 +4,21 @@ This library is converted to the release version of the App. It does not contain
 It contains functions of scraping waves and playing videos. Supported protocols: Alist, SMB, Webdav, Emby (direct connection), Local, jellyfin (direct connection)，AliYun .<br>
 your android verison must be 9.<br>
 
-qq：680093723
+<a href="https://www.afusekt.cn/AfuseKt/InstructionsForUse/">User Manual</a> you need to read .<br>
 
-if you want communicat with me please join qq：474709357
+<a href="https://t.me/PayForAfusekt">Telegram group</a>
 
+If you wish to delete your account from the official Afusekt account system after registering, please contact the author directly via the <a href="https://t.me/PayForAfusekt">Telegram group</a>. By providing your account details, a screenshot of the login interface, and the email verification code sent to you by the author, you can have your account permanently removed from the system.
+
+If you wish to purchase a subscription, please visit the site. Please ensure you are connected to a network within the Chinese region and use Alipay or WeChat Pay to complete your payment; international payment methods are not currently supported.
+
+<a href="https://c.fakamiao.top/shopDetail/aac86t">Purchase Subscription</a> .<br>
+<a href="https://github.com/AttemptD/AfuseKtV-release">Android TV version</a> .<br>
 
 <div >
-  <img src="https://github.com/user-attachments/assets/667e553c-ff0f-4154-9dc7-9c816d022279" width=30%/>
-  <img src="https://github.com/user-attachments/assets/4cece681-dda0-492f-8d18-ff459a509176" width=30%/>
-  <img src="https://github.com/user-attachments/assets/7b3c9cf1-56ac-457a-9cfb-b486133b0854" width=30%/>
+  <img src="https://github.com/user-attachments/assets/609b4850-ae43-459a-abf6-27ebb90322a7" width=30%/>
+  <img src="https://github.com/user-attachments/assets/3a715418-d39d-4f13-a11e-ee3e9cb09c4b" width=30%/>
+  <img src="https://github.com/user-attachments/assets/6dc4c5e5-6bc5-4af1-bb82-b38d7ce6d202" width=30%/>
 </div>
 
 <div >
@@ -30,5 +36,4 @@ if you want communicat with me please join qq：474709357
 <div >
   <img src="https://github.com/user-attachments/assets/26c826a7-3a3f-4abb-bcc8-e9304015e2b4" width=49%/>
   <img src="https://github.com/user-attachments/assets/86877e3e-fd23-44a6-80c5-cf0ac5d9c42b" width=49%/>
- 
 </div>
