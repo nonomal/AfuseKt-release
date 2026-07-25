@@ -1,4 +1,5 @@
-# AfuseKt-release
+# AfuseKt-release ![GitHub All Releases](https://shields.io)
+
  <img src="https://github.com/user-attachments/assets/e9b4d86b-6ce8-4550-bde2-bdf9a3818644" width=10%/>
 
 
